@@ -20,3 +20,5 @@
 - [Monique Carniello](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
 - [Thiago Henrique Ferreira](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
 - [Tiago Lopes Fukuoka](https://github.com/Tiagofukuoka)
+
+## Regra de Negócio
