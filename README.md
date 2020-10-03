@@ -25,10 +25,12 @@
 `SM - Scrum Master`
 `ST - Scrum Team`
 
-## Regra de negócio : 
+## Regra de negócio: 
 
-* Amostras gratuitas de conteúdo mediante cadastro de e-mail para posterior ação de marketing.
-* Pagamento por boleto ou cartão de crédito.
-* Valor por disciplina e valor para acesso a todas. 
-* Acesso vitalício e ilimitado.
-* Desistência da compra de acordo com a legislação vigente
+* Amostras gratuitas de conteúdo mediante cadastro de e-mail para posterior ação de marketing;
+* Pagamento através de intermediadora;
+* Valor por disciplina e valor de pacote para acesso a todas; 
+* Acesso vitalício e ilimitado;
+* Desistência da compra de acordo com a legislação vigente.
+
+
