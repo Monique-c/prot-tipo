@@ -1,10 +1,22 @@
-![alt text](https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/logo.jpg "Logo 1") e-SCHOLAR
+#### E-Scholar - plataforma web de conteúdos didáticos universitários
 
-# PI FATEC 20202, 1º Semestre ADS Grupo 3 📚:octocat:
+## Apresentação
 
-## :art: Prótipos :
+Este é um trabalho desenvolvido por alunos do primeiro semestre (2020-2) do curso de Análise e Desenvolvimento de Sistemas da Fatec SJC - Prof. Jessen Vidal
 
-<img align="center" src="https://github.com/PI-Grupo-3/prot-tipo/blob/master/src/Cover.png"  height="250" width="450">
+**a imagem de capa vai aqui depois que estiver pronta**
+
+
+## Desafio:
+
+Desenvolver um site de conteúdos didáticos universitários que contenha materiais em formato de texto, vídeo e jogos, das seguintes disciplinas:
+* Matemática Discreta (gráficos e lógica);
+* Português (pontuação e concordância);
+* Inglês;
+* Lógica de Programação;
+* Arquitetura e organização de computadores;
+* Laboratório de Hardware;
+
 
 ### Clique no link abaixo para visualizar o protótipo.
 
