@@ -66,7 +66,7 @@ O grupo 03 é formado por:
 | Telas de login                        |
 | Tela inicial                          |
 | Conteúdo de duas disciplinas          |
-| Tela de desistência da compra         |
+| Funcionalidade customizada            |
 | Relatórios                            |
 
 
